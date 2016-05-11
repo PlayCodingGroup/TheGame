@@ -1,0 +1,9 @@
+summonerName box ~40%
+summonerSpells: ~20%
+item images: ~12% seconds
+other: ~28%
+
+
+deleting old test info
+
+even more test info yay 
